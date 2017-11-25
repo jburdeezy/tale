@@ -5,7 +5,7 @@ author: "Justin Burdett"
 permalink: /about/
 ---
 
-![My headshot]({{ "/_assets/headshot.jpg" | absolute_url }})
+![My headshot]({{ "assets/headshot.jpg" }})
 
 Hi, I'm Justin. I'm a product and technology guy from Pittsburgh, Pennsylvania.
 
