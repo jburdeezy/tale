@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Justin Burdett's Website
 paginate:       5
-baseurl:        "/"
+baseurl:        ""
 url:            "https://www.justinburdett.com"
 
 # Assets
