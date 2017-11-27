@@ -1,11 +1,8 @@
 ---
-layout: post
-title: "About"
-author: "Justin Burdett"
-permalink: /about/
+layout: default
 ---
 
-![My headshot]({{ "assets/headshot.jpg" }})
+![My headshot]({{ "headshot.jpg" }})
 
 Hi, I'm Justin. I'm a product and technology guy from Pittsburgh, Pennsylvania.
 
