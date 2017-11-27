@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "RIP Portable"
-author: "Justin Burdett"
 ---
 
 I launched a tiny Shopify application called Portable a little over three years ago. Portable brought Shopify customer data into your inbox through Rapportive, a very popular Gmail plugin. At its height, Portably only had about 20 active customers in total, but some of those customers included the Wikipedia Foundation, the creators behind the popular web comic Cyanide and Happiness and party rockers LMFAO, which is pretty incredible to me.
