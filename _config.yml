@@ -1,9 +1,10 @@
 # Permalinks
-permalink:      /:year-:month-:day/:title.html
+permalink:      writing/:title.html
 
 # Setup
 title:          Justin Burdett's Website
 paginate:       5
+paginate_path:  "writing/page:num/"
 baseurl:        ""
 url:            "https://www.justinburdett.com"
 
